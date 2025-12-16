@@ -4,8 +4,6 @@
 
 a = [5, 10, 15, 20, 25]
 
-
-
 def takeFE(a):
     a = [ a[0] , a[-1] ]
     return(a)
